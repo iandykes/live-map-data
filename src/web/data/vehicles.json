@@ -1,0 +1,70 @@
+﻿{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "Vehicle1",
+            "properties": {
+                "name": "Vehicle1",
+                "course": 10,
+                "type": "hgv"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -4.703217, 50.371438 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Vehicle2",
+            "properties": {
+                "name": "Vehicle2",
+                "course": 270,
+                "type": "hgv"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -4.515934, 50.340385 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Vehicle3",
+            "properties": {
+                "name": "Vehicle3",
+                "course": 90,
+                "type": "hgv"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -4.497137, 50.353311 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Vehicle4",
+            "properties": {
+                "name": "Vehicle4",
+                "course": 300,
+                "type": "hgv"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -4.485292, 50.349971 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Vehicle5",
+            "properties": {
+                "name": "Vehicle5",
+                "course": 70,
+                "type":  "hgv"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -4.464006, 50.355885 ]
+            }
+        }
+    ]
+}
