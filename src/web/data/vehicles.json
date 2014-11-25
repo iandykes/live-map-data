@@ -6,7 +6,7 @@
             "id": "Vehicle1",
             "properties": {
                 "name": "Vehicle1",
-                "course": 10,
+                "course": 190,
                 "type": "hgv"
             },
             "geometry": {
@@ -32,12 +32,12 @@
             "id": "Vehicle3",
             "properties": {
                 "name": "Vehicle3",
-                "course": 90,
+                "course": 50,
                 "type": "hgv"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ -4.497137, 50.353311 ]
+                "coordinates": [ -4.445167, 50.390842 ]
             }
         },
         {
